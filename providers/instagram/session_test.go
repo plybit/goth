@@ -3,8 +3,8 @@ package instagram_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/instagram"
+	"github.com/plybit/goth"
+	"github.com/plybit/goth/providers/instagram"
 	"github.com/stretchr/testify/assert"
 )
 

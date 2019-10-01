@@ -9,7 +9,7 @@ import (
 	"net/url"
 
 	"fmt"
-	"github.com/markbates/goth"
+	"github.com/plybit/goth"
 	"golang.org/x/oauth2"
 )
 

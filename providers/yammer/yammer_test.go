@@ -1,8 +1,8 @@
 package yammer_test
 
 import (
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/yammer"
+	"github.com/plybit/goth"
+	"github.com/plybit/goth/providers/yammer"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

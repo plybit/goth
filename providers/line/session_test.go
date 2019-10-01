@@ -3,8 +3,8 @@ package line_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/line"
+	"github.com/plybit/goth"
+	"github.com/plybit/goth/providers/line"
 	"github.com/stretchr/testify/assert"
 )
 

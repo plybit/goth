@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/markbates/goth"
+	"github.com/plybit/goth"
 	"golang.org/x/oauth2"
 	"io"
 	"io/ioutil"

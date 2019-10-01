@@ -2,7 +2,7 @@ package openidConnect
 
 import (
 	"fmt"
-	"github.com/markbates/goth"
+	"github.com/plybit/goth"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"
